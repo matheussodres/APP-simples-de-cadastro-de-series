@@ -35,4 +35,4 @@ Aprenda como criar um algoritmo simples de cadastro de séries para praticar seu
 - Este projeto está sob a licença [MIT](./LICENSE).
 
 <!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://github.com/MatheusSodreS" >Matheus Sodré dos Santos</a></h4>
